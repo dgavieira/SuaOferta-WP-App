@@ -1,0 +1,9 @@
+atualiza
+	- git add .
+	- git commit -m "comentario do commit""
+	- git push -u origin master
+
+pegar versão do servidor
+	- git pull
+
+

@@ -1,0 +1,48 @@
+{
+  "Items": [
+    {
+      "NomeProduto": "Calça Jeans Escura",
+      "Preco": "R$ 49,90",
+      "Descricao": "Calça jeans feminina escura modelo skinny",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImagemOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/01-3.png",
+      "ImagemTwo": "",
+      "CordenadaX": "1312424252525",
+      "CordenadaY": "63563556254545"
+    },
+    {
+      "NomeProduto": "Top Cropped AC/DC",
+      "Preco": "R$ 35,90",
+      "Descricao": "Top cropped feminino de manga curta cinza e grafite com a estampa da banda AC/DC em verme",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImagemOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/08-3.png",
+      "ImagemTwo": "",
+      "CordenadaX": "3132315465",
+      "CordenadaY": "4574678787456"
+    },
+    {
+      "NomeProduto": "Camisa Verde",
+      "Preco": "R$ 25,90",
+      "Descricao": "Camisa verde",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImagemOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/19-1.png",
+      "ImagemTwo": "",
+      "CordenadaX": "65635235252",
+      "CordenadaY": "67674743455"
+    },
+    {
+      "NomeProduto": "Pantufa Sapatilha",
+      "Preco": "R$ 35,90",
+      "Descricao": "Pantufa azul marinho com poá in",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImagemOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/12-1.png",
+      "ImagemTwo": "",
+      "CordenadaX": "45246565234525",
+      "CordenadaY": "346356352523453"
+    }
+  ]
+}

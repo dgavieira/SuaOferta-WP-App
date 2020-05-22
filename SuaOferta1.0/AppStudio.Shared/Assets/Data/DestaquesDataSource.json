@@ -1,0 +1,70 @@
+{
+  "Items": [
+    {
+      "NomeProduto": "Calça Jeans Escura",
+      "Preco": "R$ 49,90",
+      "Descricao": "Calça jeans feminina escura modelo skinny",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/01-2.png",
+      "ImageTwo": "",
+      "CoordenadaX": "1312424252525",
+      "CoordenadaYo": "63563556254545"
+    },
+    {
+      "NomeProduto": "Camiseta Gola V",
+      "Preco": "R$ 29,90",
+      "Descricao": "Camiseta masculina de manga curta gola V azul",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/15-1.png",
+      "ImageTwo": "",
+      "CoordenadaX": "234134252521",
+      "CoordenadaYo": "2452657635637"
+    },
+    {
+      "NomeProduto": "Camiseta Branca Básica",
+      "Preco": "Camiseta Branca Básica",
+      "Descricao": "Camiseta branca básica",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/20-1.png",
+      "ImageTwo": "",
+      "CoordenadaX": "42423424525",
+      "CoordenadaYo": "79898678578"
+    },
+    {
+      "NomeProduto": "Top Cropped AC/DC",
+      "Preco": "R$ 35,90",
+      "Descricao": "Top cropped feminino de manga curta cinza e grafite com a estampa da banda AC/DC em vermelho e amarelo",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/08-2.png",
+      "ImageTwo": "",
+      "CoordenadaX": "3132315465",
+      "CoordenadaYo": "4574678787456"
+    },
+    {
+      "NomeProduto": "Bermuda Verde",
+      "Preco": "R$ 45,90",
+      "Descricao": "Bermuda masculina de praia com estampa abstrata verde e preta",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/06-1.png",
+      "ImageTwo": "",
+      "CoordenadaX": "2342513413131",
+      "CoordenadaYo": "565746356345212"
+    },
+    {
+      "NomeProduto": "Saia Drapeada Rosa",
+      "Preco": "R$ 39,90",
+      "Descricao": "Saia drapeada de neoprene rosa",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/09-2.png",
+      "ImageTwo": "",
+      "CoordenadaX": "78785676341",
+      "CoordenadaYo": "8785745652441"
+    }
+  ]
+}

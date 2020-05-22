@@ -1,0 +1,224 @@
+{
+  "Items": [
+    {
+      "NomeProduto": "Calça Jeans Escura",
+      "Preco": "R$ 49,90",
+      "Descricao": "Calça jeans feminina escura modelo skinny",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/01-1.png",
+      "ImageTwo": "",
+      "CordenadaX": "1312424252525",
+      "CordenadaY": "63563556254545"
+    },
+    {
+      "NomeProduto": "Calça Resida Amarela",
+      "Preco": "R$ 69,90",
+      "Descricao": "Calça feminina resinada amarela",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/02-1.png",
+      "ImageTwo": "",
+      "CordenadaX": "34253453634535",
+      "CordenadaY": "56565645245242"
+    },
+    {
+      "NomeProduto": "Calça Preta",
+      "Preco": "R$ 89,90",
+      "Descricao": "Calça feminina de sarja preta",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/03-1.png",
+      "ImageTwo": "",
+      "CordenadaX": "2352453524252",
+      "CordenadaY": "55363563635636"
+    },
+    {
+      "NomeProduto": "Camisa Azul",
+      "Preco": "R$ 79,90",
+      "Descricao": "Camisa masculina de manga longa azul com detalhe de couro fake no bolso",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/04.png",
+      "ImageTwo": "",
+      "CordenadaX": "2345245524242423",
+      "CordenadaY": "345465767567474"
+    },
+    {
+      "NomeProduto": "Camisa Estampada",
+      "Preco": "R$ 69,90",
+      "Descricao": "Camisa masculina de manga curta azul marinho com estampa de mini flor na cor branca",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/05.png",
+      "ImageTwo": "",
+      "CordenadaX": "34234242525245",
+      "CordenadaY": "2452452525252525"
+    },
+    {
+      "NomeProduto": "Bermuda Verde",
+      "Preco": "R$ 45,90",
+      "Descricao": "Bermuda masculina de praia com estampa abstrata verde e preta",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/06.png",
+      "ImageTwo": "",
+      "CordenadaX": "2342513413131",
+      "CordenadaY": "565746356345212"
+    },
+    {
+      "NomeProduto": "Regata Preta Estampada",
+      "Preco": "R$ 29,90",
+      "Descricao": "Regata cavada feminina preta com estampa de uma cobra em bege e manchas em ouro vermelho",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/07.png",
+      "ImageTwo": "",
+      "CordenadaX": "453453523344",
+      "CordenadaY": "45636456767"
+    },
+    {
+      "NomeProduto": "Top Cropped AC/DC",
+      "Preco": "R$ 35,90",
+      "Descricao": "Top cropped feminino de manga curta cinza e grafite com a estampa da banda AC/DC em vermelho e amarelo",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/08-1.png",
+      "ImageTwo": "",
+      "CordenadaX": "3132315465",
+      "CordenadaY": "4574678787456"
+    },
+    {
+      "NomeProduto": "Saia Drapeada Rosa",
+      "Preco": "R$ 39,90",
+      "Descricao": "Saia drapeada de neoprene rosa",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/09-1.png",
+      "ImageTwo": "",
+      "CordenadaX": "78785676341",
+      "CordenadaY": "8785745652441"
+    },
+    {
+      "NomeProduto": "Cardigan Masculino Preto",
+      "Preco": "R$ 49,90",
+      "Descricao": "Cardigan masculino preto com vivo branco e botões pretos de pressão",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/10.png",
+      "ImageTwo": "",
+      "CordenadaX": "341342452524",
+      "CordenadaY": "11232131425"
+    },
+    {
+      "NomeProduto": "Blazer Branco",
+      "Preco": "R$ 139,90",
+      "Descricao": "Blazer branco de manga longa e detalhes em prata e franjinha. Composição: 100% Poliéster",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/11.png",
+      "ImageTwo": "",
+      "CordenadaX": "5656563436",
+      "CordenadaY": "56746746457636"
+    },
+    {
+      "NomeProduto": "Pantufa Sapatilha",
+      "Preco": "R$ 35,90",
+      "Descricao": "Pantufa azul marinho com poá interior vermelho",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/12.png",
+      "ImageTwo": "",
+      "CordenadaX": "45246565234525",
+      "CordenadaY": "346356352523453"
+    },
+    {
+      "NomeProduto": "Camiseta Masculina Pranchas",
+      "Preco": "R$ 29,90",
+      "Descricao": "Camiseta masculina amarela de manga curta com estampa de pranchas de surf nas costas e a frase \"Looking element of sun\" na frente",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/13.png",
+      "ImageTwo": "",
+      "CordenadaX": "234242452342345",
+      "CordenadaY": "756757858457"
+    },
+    {
+      "NomeProduto": "Regata Masculina Estampa Esportiva",
+      "Preco": "R$ 29,90",
+      "Descricao": "Regata masculina preta com estampa de ornamentos cinza e frase \"Brooklyn 87\" em branco com pegada esportiva",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/14.png",
+      "ImageTwo": "",
+      "CordenadaX": "34524414134",
+      "CordenadaY": "34256552342"
+    },
+    {
+      "NomeProduto": "Camisa Gola V",
+      "Preco": "R$ 29,90",
+      "Descricao": "Camiseta masculina de manga curta gola V azul",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/15.png",
+      "ImageTwo": "",
+      "CordenadaX": "234134252521",
+      "CordenadaY": "2452657635637"
+    },
+    {
+      "NomeProduto": "Regata Estampada",
+      "Preco": "R$ 29,90",
+      "Descricao": "Regata masculina estampada nas cores: verde, laranja, amarelo, azul, vermelho e branco.",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/16.png",
+      "ImageTwo": "",
+      "CordenadaX": "6476454654567",
+      "CordenadaY": "23342565653546"
+    },
+    {
+      "NomeProduto": "Camiseta Branca Estampada",
+      "Preco": "R$ 29,90",
+      "Descricao": "Camiseta feminina de manga curta, decote V branca com a estampa de escama de cobra em preto com a frase \"LONG LIVE ROCK N' ROLL\"",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/17.png",
+      "ImageTwo": "",
+      "CordenadaX": "24452342524454",
+      "CordenadaY": "11341341341414"
+    },
+    {
+      "NomeProduto": "Regata Estampada",
+      "Preco": "R$ 25,90 ",
+      "Descricao": "Regata branca feminina com estampa séria",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/18.png",
+      "ImageTwo": "",
+      "CordenadaX": "52524534525",
+      "CordenadaY": "252525245252"
+    },
+    {
+      "NomeProduto": "Camisa Verde",
+      "Preco": "R$ 25,90",
+      "Descricao": "Camisa verde",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/19.png",
+      "ImageTwo": "",
+      "CordenadaX": "65635235252",
+      "CordenadaY": "67674743455"
+    },
+    {
+      "NomeProduto": "Camiseta Branca Básica",
+      "Preco": "R$ 25,90",
+      "Descricao": "Camiseta branca básica",
+      "DataInicio": "09/10/2014",
+      "DataVencimento": "25/12/2014",
+      "ImageOne": "https://waspro.blob.core.windows.net/apps/1816028/273701b5-211a-45de-9e22-6c8f42689220/res/20.png",
+      "ImageTwo": "",
+      "CordenadaX": "42423424525",
+      "CordenadaY": "79898678578"
+    }
+  ]
+}
